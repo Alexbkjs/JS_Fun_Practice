@@ -1,3 +1,5 @@
+Hi there, Alex!
+
 # js-function-fun
 
 A list of small & fun functional programming exercises in JavaScript.
